@@ -24,6 +24,6 @@
 ## Información de contacto del autor
 
 ### Correo : 
-ontacto@restobar-centro.com
+contacto@restobar-centro.com
 ### Telefono : 
 51199958554
